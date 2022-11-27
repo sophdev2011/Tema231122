@@ -2,6 +2,7 @@
 # Tema Informatica 23.11.2022
 
 ## 75 de exercitii in C++
+10/75
 
 ## Organisation
 
