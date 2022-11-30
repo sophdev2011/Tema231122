@@ -4,9 +4,9 @@ using namespace std;
 
 int main()
 
-{ 
-    int n,m,i;
-    cin>>n>>m;
-    cout<<m/n;
-    return 0;
+{
+   int n;
+   cin>>n;
+   cout<<(n-1)*n/2;
+   return 0;
 }
