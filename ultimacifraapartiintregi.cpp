@@ -1,12 +1,13 @@
 #include <iostream>
 
 using namespace std;
+double n;
 
 int main()
 {
-    int n;
+    
     cin>>n;
-    cout<<n %10;
+    cout<<(int)n%10;
 
 
     return 0;
